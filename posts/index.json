@@ -5,7 +5,7 @@
     "summary": "Across DIA records from the 1970s, NARA-FAA aviation reports, and PURSUE-DoW military ISR missions from 2022–2024, the same physically anomalous signature appears: objects with strong infrared presence and zero radar return. Three sources, five decades, three continents — never previously analyzed together.",
     "date": "2026-05-15",
     "tags": ["pattern", "finding"],
-    "db_snapshot": "266,414 records"
+    "db_snapshot": "361,478 records"
   },
   {
     "slug": "portland-1947-blue-book-fbi-corroboration",
@@ -13,7 +13,7 @@
     "summary": "Blue Book and FBI files independently document the same mass sighting — police, harbor patrol, deputy sheriffs, and an airline crew — yet neither agency acknowledged the other's investigation for 75 years.",
     "date": "2026-05-15",
     "tags": ["corroboration", "finding"],
-    "db_snapshot": "266,414 records"
+    "db_snapshot": "361,478 records"
   },
   {
     "slug": "kenneth-arnold-three-agency-corroboration",
@@ -21,7 +21,7 @@
     "summary": "AARO, the CIA, and Project Blue Book all independently documented the founding event of the modern UAP era. Their records — created 75 years apart — have never been placed in the same database until now.",
     "date": "2026-05-15",
     "tags": ["corroboration", "finding"],
-    "db_snapshot": "266,414 records"
+    "db_snapshot": "361,478 records"
   },
   {
     "slug": "quantico-1954-dual-agency-investigation",
@@ -29,7 +29,7 @@
     "summary": "Recurring unidentified lights appeared over Quantico Marine Corps Base on consecutive nights in January 1954 — up to five times per night. Both the FBI and Project Blue Book opened independent investigations. Neither agency's file references the other.",
     "date": "2026-05-15",
     "tags": ["corroboration", "finding"],
-    "db_snapshot": "266,414 records"
+    "db_snapshot": "361,478 records"
   },
   {
     "slug": "ogden-1949-army-depot-dual-agency",
@@ -37,6 +37,6 @@
     "summary": "A guard at the Army General Supply Depot observed an explosion and falling silver object at high altitude. Blue Book and the FBI both filed records of this event on the same day, 4.33 km apart — one of the tightest cross-agency corroborations in the database.",
     "date": "2026-05-15",
     "tags": ["corroboration", "finding"],
-    "db_snapshot": "266,414 records"
+    "db_snapshot": "361,478 records"
   }
 ]
